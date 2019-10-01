@@ -5,7 +5,7 @@ Dies ist das Repository zum smile-Workshop "Über Lottofeen zu (mehr) Computerne
 | ------------: | :-------------- |
 |<img width=250/> | <img width=500/> |
 | [Framework](/Framework.pdf) | Hier findet sich ein Überblick den vorgestellten Workshop, mögliche Verlaufspläne und weitere Hintergrundinformationen |
-| [Material 01](/) | Enthalten eine Einführung zum Thema Diversität und Differenz, Privilegien und Intersektionalität |
+| [Material 01](/M1_Kurzvortrag.pdf) | Enthält eine Einführung zum Thema Diversität und Differenz, Privilegien und Intersektionalität |
 | [Material 02](/M2_Identitaeten.pdf) | Illustrierte Darstellung von Personen verschiedener Ethnien und Geschlechter |
 | [Material 03](/M3_Identitaetsaspekte.pdf) | Identitätsaspekte die der gezogenen Identität zugeschrieben werden |
 | [Material 04](/M4_Placemats.pdf) | Verschiedene durchzuspielende Situationen mit Platz für eigene Notizen |
